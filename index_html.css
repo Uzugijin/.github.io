@@ -3,44 +3,49 @@ a:visited { color:#5D5D9E; }
 a:active { color:#5C615E; } 
 a:hover { color:#B2B3B4; } 
 #menu_6ce45538 a { text-decoration: none; }
-#menu_6ce45538_pane { background-color: #E6E6E6; border: 1px solid #E6E6E6; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
-#menu_6ce45538_hr { background-color: #E6E6E6; height: 1px; border: none; }
-#menu_6ce45538_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
-#menu_6ce45538_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_6ce45538_pane { background-color: #300066; border: 1px solid #9600FB; padding-top: 30px; padding-bottom: 30px; border-radius: 15px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_6ce45538_hr { background-color: #9600FB; height: 1px; border: none; }
+#menu_6ce45538_entry { padding-left: 30px; padding-right: 30px; padding-top: 3px; padding-bottom: 3px; }
+#menu_6ce45538_entry:hover { background-color: #6E00C5; color: #FFFFFF !important; }
 #menu_6ce45538_entry:hover span { color:#FFFFFF !important; }
 		.menu_6ce45538_mainMenuEntry { text-align: center; }
-		.menu_6ce45538_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_6ce45538_mainMenuEntry:hover {	background-color:#6E00C5; }
 		.menu_6ce45538_mainMenuEntry:hover span {	color:#FFFFFF !important; }
 		#menu_6ce45538 .mobileEntry { display: none; } 
 		#menu_6ce45538 .normalEntry { display: block; } 
-		#menu_6ce45538_menualignmentwrapper{ width:372px; left: calc(50% - 186px);  } 
+		#menu_6ce45538_menualignmentwrapper{ width:1037px; left: calc(50% - 518px);  } 
 		@media only screen and (max-width:550px) { 
 			#menu_6ce45538 .mobileEntry { display: block; } 
 			#menu_6ce45538 .normalEntry { display: none; } 
-			#menu_6ce45538_menualignmentwrapper { width:37px; left: calc(50% - 18px);  } 
+			#menu_6ce45538_menualignmentwrapper { width:77px; left: calc(50% - 38px);  } 
 		}
 body { background-color:#3D3D3D; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
+#container_18f1f132 { vertical-align: top; border-radius: 0px 0px 15px 15px; position:relative; display: inline-block; width:100%; min-height:74px; background-color:#400080; background: linear-gradient(to bottom, #C6166F, #400080);  }
+#container_18f1f132_padding { margin: 10px; display: block;  }
 #container_2aa5a736 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:117px; background:none;  }
 #container_2aa5a736_padding { margin: 10px; display: block;  }
-#container_5456af58 { box-sizing: border-box; vertical-align: top; border-radius: 9px; position:relative; display: inline-block; width:100%; min-height:95px; background-color:#BDBDBD; background: linear-gradient(to bottom, #F5F5F5, #BDBDBD); border: 1px solid #545454;  }
+#container_5456af58 { vertical-align: top; border-radius: 9px; position:relative; display: inline-block; width:100%; min-height:95px; background-color:#FF0080; background: linear-gradient(to bottom, rgba(245, 245, 245, 0), rgba(255, 0, 128, 0));  }
 #container_5456af58_padding { margin: 10px; display: block;  }
 .textstyle2 { text-align:center; }
-.textstyle3 { font-size:40pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#container_18f1f132 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:74px; background:none;  }
-#container_18f1f132_padding { margin: 10px; display: block;  }
-#menu_6ce45538 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:#E5E5E5; background: linear-gradient(to bottom, #FFFFFF, #E5E5E5); border: 1px solid #A0A0A0;  }
+.textstyle3 { font-size:32pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  }
+#menu_6ce45538 { vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:#AD4DC5; background: linear-gradient(to bottom, #8000FF, #AD4DC5);  }
 #menu_6ce45538_menualignmentwrapper { position: relative; overflow: visible; height: 100%; }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
-.menustyle1 { position:absolute; width:37px; height:38px; left:0px;  }
+.menustyle1 { position:absolute; width:77px; height:38px; left:0px;  }
 .menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
 .textstyle4 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
-.menustyle2 { position:absolute; width:61px; height:38px; left:0px;  }
-.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
-.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
-.menustyle3 { position:absolute; width:128px; height:38px; left:61px;  }
-.menustyle4 { position:absolute; width:91px; height:38px; left:189px;  }
-.menustyle5 { position:absolute; width:92px; height:38px; left:280px;  }
+.menustyle2 { position:absolute; width:181px; height:38px; left:0px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:29px;  }
+.textstyle5 { font-size:15pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:132px; height:38px; left:181px;  }
+.menustyle4 { position:absolute; width:164px; height:38px; left:313px;  }
+.menustyle5 { position:absolute; width:170px; height:38px; left:477px;  }
+.menustyle6 { position:absolute; width:249px; height:38px; left:647px;  }
+.menustyle7 { position:absolute; width:141px; height:38px; left:896px;  }
+.textstyle6 { font-size:15pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
+#container_61bd2509 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1000px; background-color:#000080; background-image: url(rc_images/dacube_1200x675.png); background-position:top left; background-size:cover; border: 1px solid #404040;  }
+#container_61bd2509_padding { margin: 10px; display: block;  }
 #container_52c2f018 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_52c2f018_padding { margin: 10px; display: block;  }
-.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
