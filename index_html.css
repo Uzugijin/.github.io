@@ -13,7 +13,7 @@ a:hover { color:#B2B3B4; }
 		.menu_6ce45538_mainMenuEntry:hover span {	color:#FFFFFF !important; }
 		#menu_6ce45538 .mobileEntry { display: none; } 
 		#menu_6ce45538 .normalEntry { display: block; } 
-		#menu_6ce45538_menualignmentwrapper{ width:914px; left: calc(50% - 457px);  } 
+		#menu_6ce45538_menualignmentwrapper{ width:930px; left: calc(50% - 465px);  } 
 		@media only screen and (max-width:550px) { 
 			#menu_6ce45538 .mobileEntry { display: block; } 
 			#menu_6ce45538 .normalEntry { display: none; } 
@@ -38,11 +38,11 @@ body { background-color:#3D3D3D; padding:0;  margin: 0; }
 .menustyle2 { position:absolute; width:181px; height:38px; left:0px;  }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:29px;  }
 .textstyle5 { font-size:15pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  white-space: nowrap; }
-.menustyle3 { position:absolute; width:132px; height:38px; left:181px;  }
-.menustyle4 { position:absolute; width:164px; height:38px; left:313px;  }
-.menustyle5 { position:absolute; width:170px; height:38px; left:477px;  }
-.menustyle6 { position:absolute; width:126px; height:38px; left:647px;  }
-.menustyle7 { position:absolute; width:141px; height:38px; left:773px;  }
+.menustyle3 { position:absolute; width:148px; height:38px; left:181px;  }
+.menustyle4 { position:absolute; width:164px; height:38px; left:329px;  }
+.menustyle5 { position:absolute; width:170px; height:38px; left:493px;  }
+.menustyle6 { position:absolute; width:126px; height:38px; left:663px;  }
+.menustyle7 { position:absolute; width:141px; height:38px; left:789px;  }
 .textstyle6 { font-size:15pt; font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
 #container_61bd2509 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1000px; background-color:#000080; background-image: url(rc_images/dacube_1200x675.png); background-position:top left; background-size:cover; border: 1px solid #404040;  }
 #container_61bd2509_padding { margin: 10px; display: block;  }
